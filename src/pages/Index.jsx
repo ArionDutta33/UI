@@ -64,5 +64,5 @@ const Index = () => {
         </div>
     );
 };
-
+//initial ui
 export default Index;
